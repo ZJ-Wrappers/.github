@@ -7,3 +7,4 @@
 | Python       	| https://github.com/Launchers-1/zukiPy   	                        |
 | TypeScript   	| https://github.com/eL1fe/zukiTS         	                        |
 | Assembly   	  | https://github.com/programmer1o1/ZukiChatRequestAssembly         	|
+| Rust   	      | https://github.com/Sabsterrexx/zuki_rust         	                |
