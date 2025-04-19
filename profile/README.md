@@ -9,3 +9,4 @@
 | Rust   	      | https://github.com/Sabsterrexx/zuki_rust         	                |
 | C   	        | https://github.com/Sabsterrexx/zukiC         	                    |
 | Assembly   	  | https://github.com/programmer1o1/ZukiChatRequestAssembly         	|
+| Go   	        |https://github.com/onihilist/zukigo                                |
